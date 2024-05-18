@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary">#22c55e</color>
+    <color name="primary2">#202C33</color>
+    <!-- Primary Dark Color -->
+    <color name="primary_dark">#111B21</color>
+
+    <!-- Secondary Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Text Color -->
+    <color name="primary_text">#1f2937</color>
+    <!-- Secondary Text Color -->
+    <color name="secondary_text">#9ca3af</color>
+    <!-- Input Background Color -->
+    <color name="input_background">#f3f4f6</color>
+    <color name="icon_background">#FFFFFF</color>
+    <!-- Error Color -->
+    <color name="error">#f87171</color>
+    <!-- Received Message Background Color -->
+    <color name="received_message_background">#f8fafc</color>
+</resources>
